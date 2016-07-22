@@ -1,0 +1,84 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+#imag{
+  width:100px;
+  height:50px;
+}
+.navicon{
+padding-right: 300px;
+}
+/* --------------------------------------
+   jumbotron
+   -------------------------------------- */
+.jumbotron{
+   margin-bottom: 0px;
+   background-image: url(../../images/collg1.jpg);
+   background-repeat: no-repeat;
+   color:blue;
+   min-height:500px;
+   margin-top: 90px;
+}
+#call{
+width: 300px;
+}
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+#featuresheading{
+  font-family: sans-serif;
+}
+
+#feat{
+  margin-right: 20px;
+  text-align: center;
+}
+#feat img{
+  margin:0 0 20px;
+
+}
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
