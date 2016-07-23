@@ -26,18 +26,32 @@ padding-right: 300px;
 #call{
 width: 300px;
 }
+
 /* --------------------------------------
     Styles
    -------------------------------------- */
+#tab1 p{
+     margin-top: 20px;
+     font-family: sans-serif;
+   }
+#tab2 p{
+  font-family: sans-serif;
+  line-height: 20px;
+}
+#overview{
+  font-family: sans-serif;
+  line-height: 20px;
+  text-transform: capitalize;
+}
 #featuresheading{
   font-family: sans-serif;
 }
 
-#feat{
+#feat,#feat1{
   margin-right: 20px;
   text-align: center;
 }
-#feat img{
+#feat,#feat1 img{
   margin:0 0 20px;
 
 }
