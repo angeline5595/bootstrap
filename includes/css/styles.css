@@ -33,15 +33,15 @@ width: 300px;
 #tab1 p{
      margin-top: 20px;
      font-family: sans-serif;
+     line-height: 30px;
    }
 #tab2 p{
   font-family: sans-serif;
-  line-height: 20px;
+  line-height: 30px;
 }
 #overview{
   font-family: sans-serif;
-  line-height: 20px;
-  text-transform: capitalize;
+  line-height: 30px;
 }
 #featuresheading{
   font-family: sans-serif;
@@ -55,11 +55,15 @@ width: 300px;
   margin:0 0 20px;
 
 }
+   /* --------------------------------------
+      footer
+      -------------------------------------- */
 footer{
      background: #333;
      color: #eee;
      font-size: 11px;
      padding: 20px;
+     margin-top: 20px;
    }
    ul.unstyled{
      list-style: none;
